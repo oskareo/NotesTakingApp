@@ -1,0 +1,2 @@
+1	Bernoulli Equations	2018-04-14 22:53:31	Bernoulli equations are very challenging	
+2	Bernoulli Equations	2018-04-14 22:53:31	These can be solved in a similar way to a differential equation	
